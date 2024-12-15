@@ -1,0 +1,5 @@
+com\example\channel\kafka\KafkaConsumer.class
+com\example\channel\repository\MessageRepository.class
+com\example\channel\controller\ChannelController.class
+com\example\channel\model\Message.class
+com\example\channel\Application.class
